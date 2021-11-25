@@ -25,7 +25,7 @@ border-radius: nullpx;
     display: flex;
     justify-content: space-between;
     font-family: 'Raleway', sans-serif;
-    margin-right: 2cm;
+    margin-right: 1%;
 }
 .header{
 font-family: 'Rubik Mono One', sans-serif;
@@ -34,7 +34,7 @@ font-family: 'Rubik Mono One', sans-serif;
     font-family: 'Playfair Display', serif;
 }
 .covid{
-    margin-left: 5cm;
+    margin-left: 2%;
     margin-top: 10%;
     font-size: larger;
     width: 40%;
@@ -56,4 +56,21 @@ color: yellow;
 }
 body{
     background-color: wheat;
+}
+.new{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 35px;
+}
+.omg{
+   width: 30%;
+}
+.mal{
+    flex-direction: row;
+    display: flex;
+    margin-top: 10%;
+    align-items: center;
+}
+.khanhle{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
 }
