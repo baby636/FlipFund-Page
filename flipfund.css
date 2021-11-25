@@ -1,0 +1,59 @@
+.investment{
+   width: 100px; 
+
+}
+.heading{
+    flex-direction: row;
+    display: flex;
+}
+.an{
+font-family: 'Rubik Mono One', sans-serif;
+height: 25.85714340209961px;
+width: 95px;
+left: 97px;
+top: 43.9615478515625px;
+border-radius: nullpx;
+}
+.thang-hang{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bodoi{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Raleway', sans-serif;
+    margin-right: 2cm;
+}
+.header{
+font-family: 'Rubik Mono One', sans-serif;
+}
+.letter{
+    font-family: 'Playfair Display', serif;
+}
+.covid{
+    margin-left: 5cm;
+    margin-top: 10%;
+    font-size: larger;
+    width: 40%;
+}
+.tong{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+.butcon{
+    position: absolute;
+width: 144px;
+height: 40px;
+background: #EC5863;
+border-radius: 5px;
+border: none;
+font-family: 'Raleway', sans-serif;
+color: yellow;
+}
+body{
+    background-color: wheat;
+}
