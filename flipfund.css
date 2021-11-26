@@ -56,6 +56,8 @@ color: yellow;
 }
 body{
     background-color: wheat;
+    flex-direction: column;
+    display: flex;
 }
 .new{
     font-family: 'Rubik Mono One', sans-serif;
@@ -80,9 +82,9 @@ body{
 .least{
     flex-direction: column;
     display: flex;
-    justify-self: center;
+    align-self: center;
     margin-top: 10%;
-    border: chocolate;
+align-items: center;
 }
 .list{
     font-family: 'Playfair Display', serif;
@@ -93,4 +95,33 @@ body{
 }
 .spider{
     width: 30%;
+}
+.box{
+height: 117px;
+width: 1000px;
+border-radius: 16px;
+box-shadow: 0px 4px 4px 0px #00000040;
+align-self: center;
+flex-direction: row;
+display: flex;
+justify-content: space-between;
+background: burlywood;
+margin-top: 13%;
+}
+.magic{
+    font-family: 'Alfa Slab One', cursive;
+    color: coral;
+    font-size: 40px;
+    margin-left: 30px;
+}
+.is{
+    font-family: 'Alfa Slab One', cursive;
+    color: coral;
+    font-size: 40px;
+}
+.cool{
+    font-family: 'Alfa Slab One', cursive;
+    color: coral;
+    font-size: 40px;
+    margin-right: 30px;
 }
