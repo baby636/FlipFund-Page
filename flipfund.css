@@ -75,5 +75,22 @@ body{
     font-size: 30px;
 }
 .margin{
-    margin-right: 10px;
+    margin-left: 200px;
+}
+.least{
+    flex-direction: column;
+    display: flex;
+    justify-self: center;
+    margin-top: 10%;
+    border: chocolate;
+}
+.list{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+.jk{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+.spider{
+    width: 30%;
 }
